@@ -1,23 +1,31 @@
-<h1>Portfólio IBM</h1> 
+# 🌟 Meu Portfólio 🌟
+
+Bem-vindo ao meu portfólio AMS2024-3DS! Aqui você encontrará o projeto de TCC (Trabalho de Conclusão de Curso) desenvolvido em grupo referente ao meu curso técnico de Desenvolvimento de Sistemas na ETEC, além dos cursos e palestras oferecidos pela IBM como mentoria durante esse percurso.
+
+## Status do Projeto: Em desenvolvimento.
+
+## 📌 Índice
+- [Projetos](#projetos)
+- [Educação](#educação)
+- [Experiência](#experiência)
+- [Contato](#contato)
+
+## 🚀 Projetos
+
+### Projeto TCC: Second Vision
+Descrição: Sistema de Auxílio na Autonomia de Deficientes Visuais em Metrópoles.
+- **Tecnologias:** 
+- **Link:** 
+
+## 🎓 Educação
+
+- **ETEC Zona Leste** – Desenvolvimento de Sistemas no programa Articulado Médio Superior (AMS)
+  - *Ano de Conclusão:* (2024)
+
+## 💼 Experiência
 
 
-   <img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=RED&style=for-the-badge"/>
+## 📞 Contato
 
-
-> Status do Projeto: :warning: Em desenvolvimento
-
-### Tópicos 
-
-:small_blue_diamond: [Descrição do projeto](#descrição-do-projeto)
-
-## Descrição do projeto 
-
-<p align="justify">
-  Este repositório contém uma coleção das minhas palestras, cursos do SkillsBuild e o projeto do meu Trabalho de Conclusão de Curso (TCC) em desenvolvimento. Explore o conteúdo para obter insights sobre minha experiência e habilidades em diversos tópicos.
-</p>
-
-## Licença 
-
-The [MIT License]() (MIT)
-
-Copyright :copyright: 2024 - Tiago Bryan Ramos de Oliveira
+- **Email:** 
+- **LinkedIn:** 
